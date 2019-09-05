@@ -12,3 +12,5 @@
 #      etc.
 
 # Hint: The next number is found by adding the two numbers before it
+x = 3
+

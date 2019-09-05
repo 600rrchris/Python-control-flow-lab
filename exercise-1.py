@@ -13,6 +13,6 @@
 x = input('Enter "Please enter a letter from the alphabet (a-z or A-Z)"')
 vowels = ('a', 'e', 'i', 'o', 'u')
 if x in vowels:
-    print ('The letter {x} is a vowel')
+    print (f'The letter {x} is a vowel')
 else:
-    print('The letter {x} is a consonant')     
+    print(f'The letter {x} is a consonant')     

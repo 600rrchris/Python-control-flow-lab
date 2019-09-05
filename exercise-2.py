@@ -12,4 +12,4 @@ x = len(word)
 if word in error:
     input('Enter "Please enter a word or phrase"')
 else:
-    print('What you entered is {x} characters long')
+    print(f'What you entered is {x} characters long')
